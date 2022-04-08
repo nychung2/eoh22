@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
+
+title: Virtually Controlled Soft-Robotics Hand
+description: A University of Illinois Engineering Open House Project
+
+github:
+  
+  main_page: https://nychung2.github.io/eoh22/
+  about_us: https://nychung2.github.io/eoh22/about_us.html
